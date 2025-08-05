@@ -31,7 +31,7 @@
 |------------------------------- |--------------------------------------------------------------------------------------------------------------------|--------------------|
 | **BoredKV**                    | Fully working C# app that safely checks and organizes KVs                                                           | C#                 |
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
-| **NextKV**                     | Fully working NextJS Web App that safely checks and organizes KVs w/ working Admin panel                            | NextJS                 |
+| **NextKV**                     | Fully working NextJS Web App that safely checks and organizes KVs w/ working Admin panel                            | NextJS             |
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                           | PHP, Framework7    |
 | **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                       | Electron           |
 | **Xbox.com Clone**             | A modern recreation of the Xbox.com experience, featuring responsive design and dynamic content.                    | NextJS             |
@@ -41,10 +41,10 @@
 <hr>
 <div align="center" style="text-align:center;h1:50px;"> <h1> Finished Projects </h1> 
 
-| Project                      | Description                                      | Links                                                                                   |
-|------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
-| **Fallout Shelter Save Editor** | Save editor for Fallout Shelter game saves.      | [GitHub](https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor) • [Gitea](https://gitea.serversyndicate.com/Bored/Fallout-Shelter-Save-Editor) |
-| **BoredCasino**    | NextJs Casino template inspired off howl.gg                   | [GitHub](https://github.com/poseidonlocal/BoredCasino) • [Gitea](#coming-soon) |
+| DATE                            | Project                         | Description                                      | Links                                                                                |
+|---------------------------------|---------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
+|   [ 08 / 04 / 2025]            | **Fallout Shelter Save Editor** | Save editor for Fallout Shelter game saves.      | [GitHub](https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor)               | 
+|   [ 08 / 06 / 2025]             | **BoredCasino**                 | NextJs Casino template inspired off howl.gg      | [GitHub](https://github.com/poseidonlocal/BoredCasino) • [Gitea](#coming-soon)       |
 
 <hr></div>
 
