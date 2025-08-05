@@ -1,9 +1,8 @@
-<style>
-
 <div align="center">
   <h1>Bored / Bryton / Poseidon</h1>
   <!-- Socials are now listed in the table below -->
 </div>
+  
 ========================================================================================              
   <h1>Bored / Bryton / Poseidon</h1>
 ========================================================================================
