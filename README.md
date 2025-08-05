@@ -4,7 +4,6 @@
   <p>
     <strong>YouTube:</strong> <a href="https://youtube.com/@theartofbored">@theartofbored</a> &nbsp;|&nbsp;
     <strong>X (Twitter):</strong> <a href="https://twitter.com/theartofbored">@theartofbored</a> / <a href="https://twitter.com/xbServ">@xbServ</a> &nbsp;|&nbsp;
-
     <strong>Discord:</strong> Bryt0n &nbsp;|&nbsp;
     <strong>GitHub:</strong> <a href="https://github.com/poseidonLocal">@poseidonLocal</a> &nbsp;|&nbsp;
     <strong>Websites:</strong> <a href="https://rgh.lol">rgh.lol</a> • <a href="https://xbox360.cc">xbox360.cc</a>
