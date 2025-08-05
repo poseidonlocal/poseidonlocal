@@ -25,6 +25,7 @@
   <a href="https://xbox360.cc" target="_blank">
     <img src="https://img.shields.io/badge/Website-xbox360.cc-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="xbox360.cc"/>
   </a>
+    <br>
   <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
 <hr>
