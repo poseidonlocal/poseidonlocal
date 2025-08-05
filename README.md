@@ -4,16 +4,25 @@
 </div>
   
 ========================================================================================              
-  <h1>Bored / Bryton / Poseidon</h1>
-========================================================================================
-
-|-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|
-| **YouTube**     | [@theartofbored](https://youtube.com/@theartofbored)                                           | RHG Installs and some horrendous BGA work   |
-| **X (Twitter)** | [@theartofbored](https://twitter.com/theartofbored) / [@xbServ](https://twitter.com/xbServ)   | Updates, dev logs, and community            |
-| **Discord**     | Bryt0n                                                                                        | Chat & collaboration                        |
-| **GitHub**      | [@poseidonLocal](https://github.com/poseidonLocal)                                            | Code, open source, and projects             |
-| **Websites**    | [rgh.lol](https://rgh.lol) • [xbox360.cc](https://xbox360.cc)                                 | Projects, resources, and downloads          |
-
+<div align="center" style="text-align:center;">**Socials**</div>
+<p align="center">
+ <a href="https://www.youtube.com/@theartofbored" target="_blank">                                                                                             
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>                           
+  </a> 
+  <a href="https://twitter.com/theartofbored" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://github.com/poseidonLocal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://rgh.lol" target="_blank">
+    <img src="https://img.shields.io/badge/Website-rgh.lol-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rgh.lol"/>
+  </a>
+  <a href="https://xbox360.cc" target="_blank">
+    <img src="https://img.shields.io/badge/Website-xbox360.cc-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="xbox360.cc"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
+</p>
 ========================================================================================
 
 | Project                        | Description                                                                                                         | Tech Stack         |
