@@ -9,26 +9,20 @@
  <a href="https://www.youtube.com/@theartofbored" target="_blank">                                                                                             
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>                           
   </a> 
-  |
   <a href="https://twitter.com/theartofbored" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  |
   <a href="https://github.com/poseidonLocal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  |
   <a href="https://rgh.lol" target="_blank">
     <img src="https://img.shields.io/badge/Website-rgh.lol-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rgh.lol"/>
   </a>
-  |
   <a href="https://xbox360.cc" target="_blank">
     <img src="https://img.shields.io/badge/Website-xbox360.cc-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="xbox360.cc"/>
   </a>
-  |
   <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
-|
 <div align="center" style="text-align:center;h1:50px;"> <h1> Projects </h1> </div>
 
 | Project                        | Description                                                                                                         | Tech Stack         |
