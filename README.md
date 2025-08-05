@@ -18,7 +18,7 @@
   </a> 
 
   <a href="https://twitter.com/theartofbored" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   
   <a href="https://github.com/poseidonLocal" target="_blank">
