@@ -32,6 +32,8 @@
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                           | PHP, Framework7    |
 | **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                       | Electron           |
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
+| **Xbox 360 Shell Designer**    | This will be a 3d model 1:1 to a real xbox 360 shell with deisgn features like recolor shapes and more.             | Qt6(Maybe)         |
+
 
 <hr>
 <div align="center" style="text-align:center;h1:50px;"> <h1> Finished Projects </h1> 
