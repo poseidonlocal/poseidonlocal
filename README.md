@@ -1,7 +1,7 @@
 # 👋 Welcome to My Portfolio
 
 <div align="center">
-  <img src="http://googleusercontent.com/file_content/3" alt="Portfolio Banner" width="600">
+  <img src="http://poseidonlocal.github,io/assets/banner.png" alt="Portfolio Banner" width="600">
 </div>
 
 This repository contains the source code for my personal portfolio website, hosted on GitHub Pages. It serves as a central hub to showcase my projects, skills, and experience as a developer.
