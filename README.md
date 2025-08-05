@@ -1,3 +1,5 @@
+<div align="center"><img width="298" height="298" alt="188743753" src="https://github.com/user-attachments/assets/4e920833-d794-4a2a-b599-d5e3d2336983" /></div>
+
 <div align="center">
   <h1>Bored / Bryt0n / Poseidon</h1>
   <!-- Socials are now listed in the table below -->
@@ -5,6 +7,7 @@
   
 <hr>              
 <div align="center" style="text-align:center;h1:50px;"> <h1> Socials </h1> 
+  
 <p style="text-decoration: none;text-align:center;" align="center-left">
  <a href="https://www.youtube.com/@theartofbored" target="_blank">        
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
