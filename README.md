@@ -6,12 +6,34 @@
 ========================================================================================
 
 
-███████╗ ██████╗  ██████╗██╗ █████╗ ██╗     ███████╗
-██╔════╝██╔═══██╗██╔════╝██║██╔══██╗██║     ██╔════╝
-███████╗██║   ██║██║     ██║███████║██║     ███████╗
-╚════██║██║   ██║██║     ██║██╔══██║██║     ╚════██║
-███████║╚██████╔╝╚██████╗██║██║  ██║███████╗███████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+Main Controls - *FIGlet and AOL Macro Fonts Supported*
+Font:
+Character Width:
+Character Height:
+Type Something 
+	
+	
+Other Stuff From patorjk.com That You Might Like:
+
+    My YouTube Channel
+    Keyboard Layout Analzyer
+    Text Color Fader
+    Snake Game
+    Scrolling Text Time Waster
+    Main Page
+
+patorjk.com
+
+.d8888.  .d88b.   .o88b. d888888b  .d8b.  db      .d8888. 
+88'  YP .8P  Y8. d8P  Y8   `88'   d8' `8b 88      88'  YP 
+`8bo.   88    88 8P         88    88ooo88 88      `8bo.   
+  `Y8b. 88    88 8b         88    88~~~88 88        `Y8b. 
+db   8D `8b  d8' Y8b  d8   .88.   88   88 88booo. db   8D 
+`8888Y'  `Y88P'   `Y88P' Y888888P YP   YP Y88888P `8888Y' 
+                                                          
+                                                          
+
+
                                                     
 
 
