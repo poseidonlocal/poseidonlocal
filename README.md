@@ -1,87 +1,22 @@
 ```
 ==============================
-|  PoseidonLocal Server Boot  |
+|   Bored / Bryton / Poseidon |
 ==============================
-Initializing system...
-Loading assets/banner.png [OK]
-Loading developer profile [OK]
-Loading featured projects [OK]
-Loading toolbox [OK]
-System ready.
-```
+YouTube : @theartofbored
+X (Twitter): @theartofbored / @xbServ
+Discord : Bryt0n
+GitHub  : @poseidonLocal
+Websites: rgh.lol • xbox360.cc
+---
+==============================
+|         Projects           |
+==============================
+Currently Building:
+
+[ NextJS ] Xbox.com Clone — A modern recreation of the Xbox.com experience, featuring responsive design and dynamic content.
+[ NextJS ] Casino Template — A sleek, customizable casino web template for gaming projects and demos.
+[   PHP  ] Framework7 BoredRPG Game — A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.
+[Electron] RGH ISO & Game Files Downloader — Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.
+[  C++   ] BoredStealth (Variant RGH Stealth Fork) — Personal-use stealth server fork. Access available upon request.
 
 ---
-
-## 🖥️ System Information
-
-**Portfolio Server:** poseidonlocal.github.io  
-**Status:** Online  
-**Theme:** Tailwind CSS, Modern UI
-
----
-
-## 👤 User Profile
-
-<div align="center">
-  <img src="http://googleusercontent.com/file_content/4" alt="Personal Logo" width="150" style="border-radius: 9999px; border: 2px solid #38bdf8;">
-</div>
-
-**Username:** poseidonlocal  
-**Role:** Full Stack Developer
-
-**Bio:**
-> Passionate about building innovative and user-friendly applications. Skilled in front-end and back-end development, always eager to solve complex problems and learn new technologies.
-
----
-
-## 🌐 Live Site
-
-**Access:** [https://poseidonlocal.github.io](https://poseidonlocal.github.io)  
-**Status:** Running
-
----
-
-## 🚀 Booted Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poseidonlocal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidonlocal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-### Project Title 1
-> A concise summary of the application, its purpose, and the problem it solves.
-**Stack:** React, Node.js, Firebase  
-**Links:** [Live Demo](#) • [Source Code](#)
-
-### Project Title 2
-> A concise summary of the application, its purpose, and the problem it solves.
-**Stack:** Python, Flask, PostgreSQL  
-**Links:** [Live Demo](#) • [Source Code](#)
-
-### Project Title 3
-> A concise summary of the application, its purpose, and the problem it solves.
-**Stack:** JavaScript, Three.js, Vite  
-**Links:** [Live Demo](#) • [Source Code](#)
-
----
-
-## 🛠️ Toolbox
-
-- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express, Python, Flask
-- **Databases:** Firebase, PostgreSQL, MongoDB
-- **Tools & Design:** Git, Figma, Vite
-
----
-
-## 📞 Contact Terminal
-
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [your.email@example.com]
-- **Twitter / X:** [@your_handle]
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
