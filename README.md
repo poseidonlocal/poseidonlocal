@@ -1,4 +1,4 @@
-<h1 align="center"> Away until 8/09/2025 due to getting wisdom teeth removed </h1>
+<h1 style="color:red;" align="center"> Away until 8/09/2025 due to getting wisdom teeth removed </h1>
 <div align="center"><img width="298" height="298" alt="188743753" src="https://github.com/user-attachments/assets/4e920833-d794-4a2a-b599-d5e3d2336983" /></div>
 
 <div align="center">
