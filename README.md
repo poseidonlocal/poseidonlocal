@@ -1,8 +1,5 @@
 <style>
-  h1 {
-    text-size: 20px;
-  }
-  </style>
+
 <div align="center">
   <h1>Bored / Bryton / Poseidon</h1>
   <!-- Socials are now listed in the table below -->
