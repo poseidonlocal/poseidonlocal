@@ -23,9 +23,9 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
-<div align="center" style="text-align:center;h1:50px;"> <h1> Projects </h1> </div>
+<div align="center" style="text-align:center;h1:50px;"> <h1> Projects Coming Soon </h1> </div>
 
-| Project                        | Description                                                                                                         | Tech Stack         |
+| Projects                       | Description                                                                                                         | Tech Stack         |
 |------------------------------- |--------------------------------------------------------------------------------------------------------------------|--------------------|
 | **Xbox.com Clone**             | A modern recreation of the Xbox.com experience, featuring responsive design and dynamic content.                    | NextJS             |
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                           | PHP, Framework7    |
