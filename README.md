@@ -17,11 +17,6 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a> 
 
-  <a href="https://twitter.com/theartofbored" target="_blank">
-  
-    <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  
   <a href="https://github.com/poseidonLocal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
