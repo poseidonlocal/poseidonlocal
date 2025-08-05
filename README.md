@@ -5,7 +5,7 @@
   
 <hr>              
 <div align="center" style="text-align:center;h1:50px;"> <h1> Socials </h1> </div>
-<p style="text-decoration: none'" align="center-left">
+<p style="text-decoration: none;text-align:center;" align="center-left">
  <a href="https://www.youtube.com/@theartofbored" target="_blank">        
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a> 
