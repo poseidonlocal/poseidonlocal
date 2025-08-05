@@ -1,8 +1,8 @@
 👋 Hey, I'm Bryt0n (aka Poseidon)
-I'm a developer and creator who loves building things for the web. This is my digital workshop where I share my projects, code, and what I'm learning. You might also know me from my YouTube channel, Bored's Shop.
+I'm a developer and creator who loves building things for the web. This is my digital workshop where I share my projects, code, and what I'm learning. You might also know me from my YouTube channel, The Art of Bored, where I turn ideas into reality.
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.youtube.com/%40boredsshop" target="_blank">
+<a href="https://youtube.com/@theartofbored" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
 </a>
 <a href="https://www.google.com/search?q=https://twitter.com/Bored" target="_blank">
@@ -18,9 +18,9 @@ I'm a developer and creator who loves building things for the web. This is my di
 
 🌱 I’m currently learning [A Technology or Concept].
 
-💬 Ask me about React, Node.js, or game development.
+💬 Ask me about React, Node.js, or creative coding.
 
-📫 How to reach me: [Your Preferred Contact Method, e.g., Discord].
+📫 How to reach me: Bryt0n on Discord.
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dposeidonlocal%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
@@ -28,7 +28,7 @@ I'm a developer and creator who loves building things for the web. This is my di
 </div>
 
 🚀 My Projects
-Here are a few things I've built.
+Here are a few things I've built. You can find more on my channel!
 
 Project
 
