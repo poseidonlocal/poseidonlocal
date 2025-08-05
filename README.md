@@ -5,9 +5,9 @@
   
 <hr>              
 <div align="center" style="text-align:center;h1:50px;"> <h1> Socials </h1> </div>
-<p align="center-left">
- <a href="https://www.youtube.com/@theartofbored" target="_blank">                                                                                             
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>                           
+<p style="text-decoration: none'" align="center-left">
+ <a href="https://www.youtube.com/@theartofbored" target="_blank">        
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a> 
   <a href="https://twitter.com/theartofbored" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
