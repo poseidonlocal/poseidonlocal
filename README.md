@@ -1,158 +1,74 @@
-# 👋 Welcome to My Portfolio
+👋 Hey, I'm Bryt0n (aka Poseidon)
+I'm a developer and creator who loves building things for the web. This is my digital workshop where I share my projects, code, and what I'm learning. You might also know me from my YouTube channel, Bored's Shop.
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40boredsshop" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/Bored" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/xGit-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="xGit/Twitter"/>
+</a>
+<a href="https://www.google.com/search?q=https://discordapp.com/users/Bryt0n" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"/>
+</a>
+</p>
+
+🌱 What I'm Up To
+🔭 I’m currently working on [Name of a Project You're Excited About].
+
+🌱 I’m currently learning [A Technology or Concept].
+
+💬 Ask me about React, Node.js, or game development.
+
+📫 How to reach me: [Your Preferred Contact Method, e.g., Discord].
 
 <div align="center">
-  <img src="http://poseidonlocal.github,io/assets/banner.png" alt="Portfolio Banner" width="600">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dposeidonlocal%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dposeidonlocal%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
 
-This repository contains the source code for my personal portfolio website, hosted on GitHub Pages. It serves as a central hub to showcase my projects, skills, and experience as a developer.
+🚀 My Projects
+Here are a few things I've built.
 
----
+Project
 
-## 👨‍💻 About Me
+Description
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="http://googleusercontent.com/file_content/4" alt="Personal Logo" width="150">
-    </td>
-    <td valign="top">
-      <p>
-        I'm a passionate developer dedicated to building innovative and user-friendly applications. My portfolio highlights a diverse range of projects, demonstrating expertise in both front-end and back-end development. I enjoy solving complex problems and continuously learning new technologies.
-      </p>
-      <p>
-        Feel free to explore my work and reach out for collaboration or opportunities!
-      </p>
-    </td>
-  </tr>
-</table>
+Tech Stack
 
----
+Links
 
-## 🚀 Live Site
+Project Title 1
 
-View my portfolio live:  
-**[https://poseidonlocal.github.io](https://poseidonlocal.github.io)**
+A concise summary of the application, its purpose, and the problem it solves.
 
----
+React, Node.js, Firebase
 
-## 🏆 Featured Projects
+[Live Demo]([Demo Link]) • [Source Code]([GitHub Repo])
 
-Each project includes a live demo and source code for further exploration.
+Project Title 2
 
-### 1. App Name 1
-<div align="center">
-  <img src="https://placehold.co/500x250/333/FFF?text=App+Screenshot+1" alt="Screenshot of App 1" width="500"/>
-</div>
-**Description:** Brief summary of the app, its purpose, and the problem it solves.  
-**Technologies:** React, Node.js, Firebase, Tailwind CSS  
-**Live App:** [Demo Link]  
-**Source Code:** [GitHub Repo]
+A concise summary of the application, its purpose, and the problem it solves.
 
-### 2. App Name 2
-<div align="center">
-  <img src="https://placehold.co/500x250/333/FFF?text=App+Screenshot+2" alt="Screenshot of App 2" width="500"/>
-</div>
-**Description:** Brief summary of the app, its purpose, and the problem it solves.  
-**Technologies:** Python, Flask, PostgreSQL, HTML/CSS  
-**Live App:** [Demo Link]  
-**Source Code:** [GitHub Repo]
+Python, Flask, PostgreSQL
 
-### 3. App Name 3
-<div align="center">
-  <img src="https://placehold.co/500x250/333/FFF?text=App+Screenshot+3" alt="Screenshot of App 3" width="500"/>
-</div>
-**Description:** Brief summary of the app, its purpose, and the problem it solves.  
-**Technologies:** JavaScript, Three.js, Vite  
-**Live App:** [Demo Link]  
-**Source Code:** [GitHub Repo]
+[Live Demo]([Demo Link]) • [Source Code]([GitHub Repo])
 
----
+Project Title 3
 
-## 🛠️ Technologies & Tools
+A concise summary of the application, its purpose, and the problem it solves.
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
-- **Backend:** Node.js, Python (Flask/Django)
-- **Databases:** Firebase, PostgreSQL, MongoDB
-- **DevOps & Hosting:** Git, GitHub Actions, Vercel, Netlify
-- **Design:** Figma, Tailwind CSS
+JavaScript, Three.js, Vite
 
----
+[Live Demo]([Demo Link]) • [Source Code]([GitHub Repo])
 
-## 📞 Contact Me
+🛠️ My Toolbox
+These are some of the technologies and tools I enjoy working with.
 
-I'm always open to connecting and discussing new opportunities.
+Frontend: JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [your.email@example.com]
-- **Twitter / X:** [@your_handle]
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-Here are some of the applications featured on my portfolio. Each project has a link to its live deployment and its source code repository.
-
-1. [App Name 1]
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/500x250/333/FFF%3Ftext%3DApp%2BScreenshot%2B1" alt="Screenshot of App 1" width="500"/>
-</div>
-
-Description: A brief, one or two-sentence summary of what the application does, its purpose, and the problem it solves.
-
-Technologies: React, Node.js, Firebase, Tailwind CSS
-
-Live App: [Link to the live deployment]
-
-Source Code: [Link to the GitHub repository]
-
-2. [App Name 2]
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/500x250/333/FFF%3Ftext%3DApp%2BScreenshot%2B2" alt="Screenshot of App 2" width="500"/>
-</div>
-
-Description: A brief, one or two-sentence summary of what the application does, its purpose, and the problem it solves.
-
-Technologies: Python, Flask, PostgreSQL, HTML/CSS
-
-Live App: [Link to the live deployment]
-
-Source Code: [Link to the GitHub repository]
-
-3. [App Name 3]
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/500x250/333/FFF%3Ftext%3DApp%2BScreenshot%2B3" alt="Screenshot of App 3" width="500"/>
-</div>
-
-Description: A brief, one or two-sentence summary of what the application does, its purpose, and the problem it solves.
-
-Technologies: JavaScript, Three.js, Vite
-
-Live App: [Link to the live deployment]
-
-Source Code: [Link to the GitHub repository]
-
-🛠️ Technologies & Tools
-This portfolio and the projects within it were built using a variety of modern technologies, including:
-
-Frontend: HTML5, CSS3, JavaScript (ES6+), React, Vue.js
-
-Backend: Node.js, Python (Flask/Django)
+Backend: Node.js, Express, Python, Flask
 
 Databases: Firebase, PostgreSQL, MongoDB
 
-DevOps & Hosting: Git, GitHub Actions, Vercel, Netlify
-
-Design: Figma, Tailwind CSS
-
-📞 Contact Me
-I'm always open to connecting and discussing new opportunities.
-
-LinkedIn: [Your LinkedIn Profile URL]
-
-Email: [your.email@example.com]
-
-Twitter / X: [@your_handle]
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Tools & Design: Git, Figma, Vite
