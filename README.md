@@ -28,7 +28,6 @@
 | Project                        | Description                                                                                                         | Tech Stack         |
 |------------------------------- |--------------------------------------------------------------------------------------------------------------------|--------------------|
 | **Xbox.com Clone**             | A modern recreation of the Xbox.com experience, featuring responsive design and dynamic content.                    | NextJS             |
-| **Casino Template**            | A sleek, customizable casino web template for gaming projects and demos.***CHECK MY REPOSE THE TEMPLATE IS OUT***   | NextJS             |
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                           | PHP, Framework7    |
 | **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                       | Electron           |
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
