@@ -1,9 +1,8 @@
-```
+
 <div align="center">
   <h1>Bored / Bryton / Poseidon</h1>
   <p>
-
-
+    <strong>YouTube:</strong> <a href="https://youtube.com/@theartofbored">@theartofbored</a> &nbsp;|&nbsp;
     <strong>X (Twitter):</strong> <a href="https://twitter.com/theartofbored">@theartofbored</a> / <a href="https://twitter.com/xbServ">@xbServ</a> &nbsp;|&nbsp;
 
     <strong>Discord:</strong> Bryt0n &nbsp;|&nbsp;
@@ -12,7 +11,6 @@
   </p>
 </div>
 
----
 
 
 | Project                        | Description                                                                                                         | Tech Stack         |
@@ -22,6 +20,3 @@
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                          | PHP, Framework7    |
 | **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                      | Electron           |
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
-
----
-````
