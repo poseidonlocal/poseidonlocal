@@ -5,6 +5,14 @@
 </div>
 ========================================================================================              
 
+
+#  .d88b.222222222222w2222228222222
+#  YPwww.2.d8b.2.d8b2w2.d88282d88b2
+#  2222d828'2.8282222828228282`Yb.2
+#  `Y88P'2`Y8P'2`Y8P282`Y88282Y88P2
+#  22222222222222222222222222222222
+
+
 |-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|
 | **YouTube**     | [@theartofbored](https://youtube.com/@theartofbored)                                           | RHG Installs and some horrendous BGA work   |
 | **X (Twitter)** | [@theartofbored](https://twitter.com/theartofbored) / [@xbServ](https://twitter.com/xbServ)   | Updates, dev logs, and community            |
