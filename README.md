@@ -1,11 +1,15 @@
-
+<style>
+  h1 {
+    text-size: 20px;
+  }
+  </style>
 <div align="center">
   <h1>Bored / Bryton / Poseidon</h1>
   <!-- Socials are now listed in the table below -->
 </div>
 ========================================================================================              
-  <h1 style="font-size:50px;">Bored / Bryton / Poseidon</h1>
-
+  <h1>Bored / Bryton / Poseidon</h1>
+========================================================================================
 
 |-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|
 | **YouTube**     | [@theartofbored](https://youtube.com/@theartofbored)                                           | RHG Installs and some horrendous BGA work   |
