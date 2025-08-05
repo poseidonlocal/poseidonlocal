@@ -31,12 +31,12 @@
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
 
 <hr>
-<div align="center" style="text-align:center;h1:50px;"> <h1> Finished Projects </h1> </div>
-
+<div align="center" style="text-align:center;h1:50px;"> <h1> Finished Projects </h1> 
 
 | Project                      | Description                                      | Links                                                                                   |
 |------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
 | **Fallout Shelter Save Editor** | Save editor for Fallout Shelter game saves.      | [GitHub](https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor) • [Gitea](https://gitea.serversyndicate.com/Bored/Fallout-Shelter-Save-Editor) |
 | **BoredCasino**    | NextJs Casino template inspired off howl.gg                   | [GitHub](https://github.com/poseidonlocal/BoredCasino) • [Gitea](#coming-soon) |
 
-<hr>
+<hr></div>
+
