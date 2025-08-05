@@ -1,9 +1,22 @@
 Welcome to My Portfolio!
 <div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/600x300/000000/FFFFFF%3Ftext%3DMy%2BPortfolio" alt="Portfolio Banner">
+<img src="http://googleusercontent.com/file_content/3" alt="Portfolio Banner" width="600">
 </div>
 
 This repository contains the source code for my personal portfolio website, hosted live on GitHub Pages. The site serves as a central hub to showcase my projects, skills, and experience as a developer.
+
+👨‍💻 About Me
+<table>
+<tr>
+<td valign="top">
+<img src="http://googleusercontent.com/file_content/4" alt="Personal Logo" width="150">
+</td>
+<td valign="top">
+<p>I'm a passionate developer with a love for creating innovative and user-friendly applications. This portfolio showcases a collection of my work, demonstrating my skills in front-end and back-end development.</p>
+<p>Feel free to explore my projects and get in touch!</p>
+</td>
+</tr>
+</table>
 
 🚀 Live Site
 You can view the live version of my portfolio here:
