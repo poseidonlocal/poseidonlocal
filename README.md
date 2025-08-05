@@ -1,27 +1,45 @@
-👋 Hey, I'm Bryt0n (aka Poseidon)
-I'm a developer and creator who loves building things for the web. This is my digital workshop where I share my projects, code, and what I'm learning. You might also know me from my YouTube channel, The Art of Bored, where I turn ideas into reality.
+# 👋 Welcome to My Portfolio
 
-<p align="left">
-<a href="https://youtube.com/@theartofbored" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/Bored" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/xGit-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="xGit/Twitter"/>
-</a>
-<a href="https://www.google.com/search?q=https://discordapp.com/users/Bryt0n" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"/>
-</a>
-</p>
+<div align="center">
+  <img src="http://poseidonlocal.github,io/assets/banner.png" alt="Portfolio Banner" width="600">
+</div>
 
-🌱 What I'm Up To
-🔭 I’m currently working on [Name of a Project You're Excited About].
+This repository contains the source code for my personal portfolio website, hosted on GitHub Pages. It serves as a central hub to showcase my projects, skills, and experience as a developer.
 
-🌱 I’m currently learning [A Technology or Concept].
+---
 
-💬 Ask me about React, Node.js, or creative coding.
+## 👨‍💻 About Me
 
-📫 How to reach me: Bryt0n on Discord.
+<table>
+  <tr>
+    <td valign="top">
+      <img src="http://googleusercontent.com/file_content/4" alt="Personal Logo" width="150">
+    </td>
+    <td valign="top">
+      <p>
+        I'm a passionate developer dedicated to building innovative and user-friendly applications. My portfolio highlights a diverse range of projects, demonstrating expertise in both front-end and back-end development. I enjoy solving complex problems and continuously learning new technologies.
+      </p>
+      <p>
+        Feel free to explore my work and reach out for collaboration or opportunities!
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🚀 Live Site
+
+View my portfolio live:  
+**[https://poseidonlocal.github.io](https://poseidonlocal.github.io)**
+
+---
+
+## 🏆 Featured Projects
+
+Each project includes a live demo and source code for further exploration.
+
+### 1. App Name 1
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dposeidonlocal%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dposeidonlocal%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
