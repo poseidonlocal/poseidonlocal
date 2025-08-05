@@ -2,7 +2,11 @@
 <div align="center">
   <h1>Bored / Bryton / Poseidon</h1>
   <p>
-    <strong>YouTube:</strong> <a href="https://youtube.com/@theartofbored">@theartofbored</a> &nbsp;|&nbsp;
+    <strong> 
+      ---
+      YouTube
+      ---
+      :</strong> <a href="https://youtube.com/@theartofbored">@theartofbored</a> &nbsp;|&nbsp;
     <strong>X (Twitter):</strong> <a href="https://twitter.com/theartofbored">@theartofbored</a> / <a href="https://twitter.com/xbServ">@xbServ</a> &nbsp;|&nbsp;
     <strong>Discord:</strong> Bryt0n &nbsp;|&nbsp;
     <strong>GitHub:</strong> <a href="https://github.com/poseidonLocal">@poseidonLocal</a> &nbsp;|&nbsp;
