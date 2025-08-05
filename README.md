@@ -40,3 +40,5 @@
 |------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
 | **Fallout Shelter Save Editor** | Save editor for Fallout Shelter game saves.      | [GitHub](https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor) • [Gitea](https://gitea.serversyndicate.com/Bored/Fallout-Shelter-Save-Editor) |
 | **BoredCasino**    | NextJs Casino template inspired off howl.gg                   | [GitHub](https://github.com/poseidonlocal/BoredCasino) • [Gitea](#coming-soon) |
+
+hr
