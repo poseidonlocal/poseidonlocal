@@ -21,3 +21,11 @@
 | **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                          | PHP, Framework7    |
 | **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                      | Electron           |
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
+
+
+
+## 🏁 Finished Projects
+
+| Project                      | Description                                      | Links                                                                                   |
+|------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Fallout Shelter Save Editor** | Save editor for Fallout Shelter game saves.      | [GitHub](https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor) • [Gitea](https://gitea.serversyndicate.com/Bored/Fallout-Shelter-Save-Editor) |
