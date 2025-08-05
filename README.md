@@ -4,7 +4,7 @@
 </div>
   
 ========================================================================================              
-<div align="center" style="text-align:center;">**Socials**</div>
+<div align="center" style="text-align:center;h1:50px;"> <h1> Socials </h1> </div>
 <p align="center">
  <a href="https://www.youtube.com/@theartofbored" target="_blank">                                                                                             
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>                           
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
 ========================================================================================
+<div align="center" style="text-align:center;h1:50px;"> <h1> Projects </h1> </div>
 
 | Project                        | Description                                                                                                         | Tech Stack         |
 |------------------------------- |--------------------------------------------------------------------------------------------------------------------|--------------------|
@@ -34,6 +35,8 @@
 | **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
 
 ========================================================================================
+<div align="center" style="text-align:center;h1:50px;"> <h1> Finished Projects </h1> </div>
+
 
 | Project                      | Description                                      | Links                                                                                   |
 |------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
