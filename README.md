@@ -3,13 +3,14 @@
   <h1>Bored / Bryton / Poseidon</h1>
   <!-- Socials are now listed in the table below -->
 </div>
-| Socials      | Handle / Link                                                                                      | Description                                 |
-|--------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **YouTube**  | [@theartofbored](https://youtube.com/@theartofbored)                                                | RHG Installs and some horrendous BGA work   |
-| **X (Twitter)** | [@theartofbored](https://twitter.com/theartofbored) / [@xbServ](https://twitter.com/xbServ)     | Updates, dev logs, and community            |
-| **Discord**  | Bryt0n                                                                                             | Chat & collaboration                        |
-| **GitHub**   | [@poseidonLocal](https://github.com/poseidonLocal)                                                  | Code, open source, and projects             |
-| **Websites** | [rgh.lol](https://rgh.lol) • [xbox360.cc](https://xbox360.cc)                                       | Projects, resources, and downloads          |
+
+| Social Platform | Handle / Link                                                                                 | Description                                 |
+|-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|
+| **YouTube**     | [@theartofbored](https://youtube.com/@theartofbored)                                           | RHG Installs and some horrendous BGA work   |
+| **X (Twitter)** | [@theartofbored](https://twitter.com/theartofbored) / [@xbServ](https://twitter.com/xbServ)   | Updates, dev logs, and community            |
+| **Discord**     | Bryt0n                                                                                        | Chat & collaboration                        |
+| **GitHub**      | [@poseidonLocal](https://github.com/poseidonLocal)                                            | Code, open source, and projects             |
+| **Websites**    | [rgh.lol](https://rgh.lol) • [xbox360.cc](https://xbox360.cc)                                 | Projects, resources, and downloads          |
 
 
 
