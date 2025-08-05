@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
   </div>
-<div align="center" style="text-align:center;h1:50px;"> <h1> Projects Coming Soon </h1> </div>
+<div align="center" style="text-align:center;h1:50px;"> <h1> Up Coming Projects </h1> </div>
 
 | Projects                       | Description                                                                                                         | Tech Stack         |
 |------------------------------- |--------------------------------------------------------------------------------------------------------------------|--------------------|
