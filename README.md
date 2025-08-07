@@ -26,9 +26,9 @@
 
 | Expected Release DATE          | Projects                       | Description                                                                                                         | Tech Stack         |
 |------------------------------- |--------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
-|   [08 / 05 / 2025]           |  **BoredKV**                    | Fully working C# app that safely checks and organizes KVs                                                           | C#                 |
+|   [ TBD ]                      |  **BoredKV**                    | Fully working C# app that safely checks and organizes KVs                                                           | C#                 |
 |   [ TBD ]                      |  **BoredStealth**               | Variant RGH Stealth fork for personal use. Access available upon request.                                           | C++                |
-|   [08 / 05 / 2025]           |  **NextKV**                     | Fully working NextJS Web App that safely checks and organizes KVs w/ working Admin panel                            | NextJS             |
+|   [ TBD ]                      |  **NextKV**                     | Fully working NextJS Web App that safely checks and organizes KVs w/ working Admin panel                            | NextJS             |
 |   [ TBD ]                      |  **BoredRPG Game**              | A browser-based RPG built with Framework7, offering engaging gameplay and a unique story.                           | PHP, Framework7    |
 |   [ TBD ]                      |  **RGH ISO & Game Downloader**  | Download Xbox game ISOs directly from the app, simulating the official Xbox Store experience.                       | Electron           |
 |   [ TBD ]                      |  **Xbox.com Clone**             | A modern recreation of the Xbox.com experience, featuring responsive design and dynamic content.                    | NextJS             |
