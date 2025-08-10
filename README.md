@@ -1,10 +1,7 @@
+<hr>              
 <div align="center">
-  <h1>Poseidon</h1>
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7d51b6d6-c55e-462f-83a9-e81374d83ea0" />
-
-  <!-- Socials are now listed in the table below -->
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b3abcea7-13af-48f6-8b28-61b036f16b40" />
 </div>
-  
 <hr>              
 <div align="center" style="text-align:center;h1:50px;"> <h1> Socials </h1> 
   
@@ -16,12 +13,6 @@
  <a href="https://www.youtube.com/@theartofbored" target="_blank">        
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a> 
-
-  <a href="https://github.com/poseidonLocal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <img src="https://img.shields.io/badge/Discord-Bryt0n-5865F2?style=for-the-badge&logo=&logoColor=white" alt="Discord: Bryt0n"/>
 </p>
   </div>
 <div align="center" style="text-align:center;h1:50px;"> <h1> Up Coming Projects </h1> </div>
