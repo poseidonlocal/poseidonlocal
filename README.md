@@ -1,5 +1,7 @@
 <div align="center">
   <h1>Poseidon</h1>
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7d51b6d6-c55e-462f-83a9-e81374d83ea0" />
+
   <!-- Socials are now listed in the table below -->
 </div>
   
