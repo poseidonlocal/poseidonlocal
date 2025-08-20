@@ -8,7 +8,6 @@
   <!-- Main Title and Description -->
   <div style="background: linear-gradient(45deg, #0066ff, #00ccff); padding: 20px; border-radius: 10px; margin: 20px 0;">
     <h1 style="color: white; margin: 0;">Welcome to PoseidonLocal</h1>
-    <p style="color: white; margin: 10px 0;">Building the future of Xbox modding and gaming tools</p>
   </div>
 
   <!-- Core Badges -->
