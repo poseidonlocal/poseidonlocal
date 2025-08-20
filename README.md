@@ -96,55 +96,6 @@
 </div>
 </details>
 
-## Latest Updates
-
-<div align="center">
-  <!-- Timeline Header -->
-  <div style="background: linear-gradient(45deg, #2f2f2f, #1a1a1a); padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Last_Update-August_2025-success?style=for-the-badge&logo=github&logoColor=white" />
-    <p style="color: #fff; margin: 10px 0;">Tracking our journey of innovation</p>
-  </div>
-
-  <!-- Timeline Grid -->
-  <div style="display: grid; gap: 1.5rem; max-width: 800px; margin: 0 auto;">
-    <!-- August 10, 2025 -->
-    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
-      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #50fa7b; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
-      <h4 style="margin: 0; color: #50fa7b;">August 10, 2025</h4>
-      <h3> csharp KVChecker</h3>
-      <p style="color: #a0a0a0;">Tommy from TeaPot made this and now it's open source.</p>
-      <a href="https://github.com/poseidonLocal/csharp-KV-Checker-Source" target="_blank">
-        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
-
-    <!-- August 6, 2025 -->
-    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
-      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #ff79c6; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
-      <h4 style="margin: 0; color: #ff79c6;">August 6, 2025</h4>
-      <h3>🎲 BoredCasino</h3>
-      <p style="color: #a0a0a0;">Next.js casino template inspired by howl.gg.</p>
-      <div style="display: flex; gap: 10px;">
-        <a href="https://github.com/poseidonLocal/BoredCasino" target="_blank">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <img src="https://img.shields.io/badge/Gitea-Coming_Soon-blue?style=for-the-badge&logo=gitea&logoColor=white" />
-      </div>
-    </div>
-
-    <!-- August 4, 2025 -->
-    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
-      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #8be9fd; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
-      <h4 style="margin: 0; color: #8be9fd;">August 4, 2025</h4>
-      <h3> Fallout Shelter Save Editor</h3>
-      <p style="color: #a0a0a0;">Save editor for Fallout Shelter game saves.</p>
-      <a href="https://github.com/poseidonLocal/Fallout-Shelter-Save-Editor" target="_blank">
-        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </div>
-  </div>
-</div>
-
 ---
 
 ## Installation & Usage
