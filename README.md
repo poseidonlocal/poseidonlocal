@@ -23,59 +23,24 @@
 
 ---
 
-<h1 align="center">🚀 Upcoming Projects</h1>
+<h1 align="center">� Project Status Update</h1>
+<p align="center"><strong>All projects below are being consolidated into one comprehensive suite. More details coming soon!</strong></p>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>BoredKV</strong></td>
-      <td>Fully working C# app that safely checks and organizes KVs.</td>
-      <td>C#</td>
-    </tr>
-    <tr>
-      <td><strong>BoredStealth</strong></td>
-      <td>Variant RGH Stealth fork for personal use. Access available upon request.</td>
-      <td>C++</td>
-    </tr>
-    <tr>
-      <td><strong>NextKV</strong></td>
-      <td>Fully working Next.js web app that safely checks and organizes KVs with an admin panel.</td>
-      <td>Next.js</td>
-    </tr>
-    <tr>
-      <td><strong>BoredRPG Game</strong></td>
-      <td>Browser RPG with Framework7—engaging gameplay and a unique story.</td>
-      <td>PHP, Framework7</td>
-    </tr>
-    <tr>
-      <td><strong>RGH ISO &amp; Game Downloader</strong></td>
-      <td>Download Xbox game ISOs directly from the app, simulating the official Xbox Store.</td>
-      <td>Electron</td>
-    </tr>
-    <tr>
-      <td><strong>Xbox.com Clone</strong></td>
-      <td>Modern recreation of the Xbox.com experience with responsive, dynamic content.</td>
-      <td>Next.js</td>
-    </tr>
-    <tr>
-      <td><strong>Xbox 360 Shell Designer</strong></td>
-      <td>1:1 3D model of an Xbox 360 shell with custom design features.</td>
-      <td>Qt6 (maybe)</td>
-    </tr>
-  </tbody>
-</table>
+<s>
+## 🚀 Legacy Projects
 
----
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| **BoredKV** | Fully working C# app that safely checks and organizes KVs. | C# |
+| **BoredStealth** | Variant RGH Stealth fork for personal use. Access available upon request. | C++ |
+| **NextKV** | Next.js web app that safely checks and organizes KVs with admin panel. | Next.js |
+| **BoredRPG Game** | Browser RPG with Framework7—engaging gameplay and a unique story. | PHP, Framework7 |
+| **RGH ISO & Game Downloader** | Download Xbox game ISOs directly from the app, simulating the Xbox Store. | Electron |
+| **Xbox.com Clone** | Modern recreation of the Xbox.com experience with responsive content. | Next.js |
+| **Xbox 360 Shell Designer** | 1:1 3D model of an Xbox 360 shell with custom design features. | Qt6 (maybe) |
+</s>
 
-<details>
-  <summary><h1 style="display:inline">📜 Update History</h1></summary>
+## 📜 Recent Updates
 
   <table>
     <thead>
@@ -91,7 +56,6 @@
         <td>2025-08-10</td>
         <td><strong>csharp KVChecker</strong></td>
         <td>Tommy from TeaPot made this and now it’s open source.</td>
-        <td><a href="https://github.com/poseidonlocal/csharp-KV-Checker-Source" target="_blank" rel="noreferrer">GitHub</a></td>
       </tr>
       <tr>
         <td>2025-08-06</td>
