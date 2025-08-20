@@ -1,25 +1,25 @@
-# 🌊 PoseidonLocal
+#  poseidonLocal
 
 <div align="center">
   
   <!-- Banner Image -->
- <a style="text-decoration:none;" href="https://poseidonlocal.github.io" target="_blank"> <img src="assets/banner.png" alt="PoseidonLocal Banner" width="100%" style="height:200px;width:200px; border-radius: 15px; margin-bottom: 20px;" /></a>
+ <a style="text-decoration:none;" href="https://poseidonLocal.github.io" target="_blank"> <img src="assets/banner.png" alt="poseidonLocal Banner" width="100%" style="height:200px;width:200px; border-radius: 15px; margin-bottom: 20px;" /></a>
 
   <!-- Main Title and Description -->
   <div style="background: linear-gradient(45deg, #0066ff, #00ccff); padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <h1 style="color: white; margin: 0;">Welcome to PoseidonLocal</h1>
+    <h1 style="color: white; margin: 0;">Welcome to poseidonLocal</h1>
   </div>
 
   <!-- Core Badges -->
   <p align="center">
     <a href="https://github.com/poseidonLocal/stargazers">
-      <img src="https://img.shields.io/github/stars/poseidonLocal/poseidonlocal?style=for-the-badge&logo=starship&color=f9c80e&logoColor=white&labelColor=1f2937" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/poseidonLocal/poseidonLocal?style=for-the-badge&logo=starship&color=f9c80e&logoColor=white&labelColor=1f2937" alt="Stars"/>
     </a>
     <a href="https://github.com/poseidonLocal/network/members">
-      <img src="https://img.shields.io/github/forks/poseidonLocal/poseidonlocal?style=for-the-badge&logo=github&color=70a5fd&logoColor=white&labelColor=1f2937" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/poseidonLocal/poseidonLocal?style=for-the-badge&logo=github&color=70a5fd&logoColor=white&labelColor=1f2937" alt="Forks"/>
     </a>
     <a href="https://github.com/poseidonLocal/issues">
-      <img src="https://img.shields.io/github/issues/poseidonLocal/poseidonlocal?style=for-the-badge&logo=githubactions&color=50fa7b&logoColor=white&labelColor=1f2937" alt="Issues"/>
+      <img src="https://img.shields.io/github/issues/poseidonLocal/poseidonLocal?style=for-the-badge&logo=githubactions&color=50fa7b&logoColor=white&labelColor=1f2937" alt="Issues"/>
     </a>
   </p>
 
@@ -27,7 +27,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Project_Status-Evolving-4B0082?style=for-the-badge&logo=evolve&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/Version-2.0_Coming-FF1493?style=for-the-badge&logo=v&logoColor=white" alt="Version" />
-    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fposeidonlocal&label=Visitors&labelColor=%231f2937&countColor=%23f9c80e" alt="Visitors" />
+    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FposeidonLocal&label=Visitors&labelColor=%231f2937&countColor=%23f9c80e" alt="Visitors" />
   </p>
 
   <!-- Tech Stack -->
@@ -52,10 +52,9 @@
 <!-- Project Status Update -->
 <div align="center">
   <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 25px; border-radius: 15px; margin: 30px 0;">
-    <h1 style="color: white; margin: 0; font-size: 2.5em;">🔄 Project Evolution</h1>
+    <h1 style="color: white; margin: 0; font-size: 2.5em;">Project Evolution</h1>
     <p style="color: white; font-size: 1.2em; margin: 15px 0;">
-      We're evolving! All projects are being transformed into one comprehensive suite.
-      <br/>Stay tuned for something revolutionary! 🚀
+    All projects are being transformed into one comprehensive suite.
     </p>
     <div style="margin-top: 20px;">
       <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge&logo=clockify&logoColor=white" alt="Status" />
@@ -65,12 +64,12 @@
 </div>
 
 <details>
-<summary><h2>🎮 Legacy Projects</h2></summary>
+<summary><h2>Legacy Projects</h2></summary>
 
 <div class="project-grid" style="display: grid; gap: 1.5rem; padding: 20px;">
   <!-- Project Cards -->
   <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
-    <h3>🔑 BoredKV <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" align="right"/></h3>
+    <h3>BoredKV <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" align="right"/></h3>
     <p style="color: #a0a0a0;">Fully working C# app that safely checks and organizes KVs.</p>
     <div class="tech-stack" style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
@@ -78,7 +77,7 @@
   </div>
 
   <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
-    <h3>🛡️ BoredStealth <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" align="right"/></h3>
+    <h3> BoredStealth <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" align="right"/></h3>
     <p style="color: #a0a0a0;">Variant RGH Stealth fork for personal use. Access available upon request.</p>
     <div class="tech-stack" style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
@@ -86,7 +85,7 @@
   </div>
 
   <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
-    <h3>🌐 NextKV <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" align="right"/></h3>
+    <h3>NextKV <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" align="right"/></h3>
     <p style="color: #a0a0a0;">Next.js web app to check and organize KVs with admin panel.</p>
     <div class="tech-stack" style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
@@ -97,7 +96,7 @@
 </div>
 </details>
 
-## 📅 Latest Updates
+## Latest Updates
 
 <div align="center">
   <!-- Timeline Header -->
@@ -112,9 +111,9 @@
     <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
       <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #50fa7b; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
       <h4 style="margin: 0; color: #50fa7b;">August 10, 2025</h4>
-      <h3>🔐 csharp KVChecker</h3>
+      <h3> csharp KVChecker</h3>
       <p style="color: #a0a0a0;">Tommy from TeaPot made this and now it's open source.</p>
-      <a href="https://github.com/poseidonlocal/csharp-KV-Checker-Source" target="_blank">
+      <a href="https://github.com/poseidonLocal/csharp-KV-Checker-Source" target="_blank">
         <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
@@ -126,7 +125,7 @@
       <h3>🎲 BoredCasino</h3>
       <p style="color: #a0a0a0;">Next.js casino template inspired by howl.gg.</p>
       <div style="display: flex; gap: 10px;">
-        <a href="https://github.com/poseidonlocal/BoredCasino" target="_blank">
+        <a href="https://github.com/poseidonLocal/BoredCasino" target="_blank">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <img src="https://img.shields.io/badge/Gitea-Coming_Soon-blue?style=for-the-badge&logo=gitea&logoColor=white" />
@@ -137,9 +136,9 @@
     <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
       <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #8be9fd; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
       <h4 style="margin: 0; color: #8be9fd;">August 4, 2025</h4>
-      <h3>🎮 Fallout Shelter Save Editor</h3>
+      <h3> Fallout Shelter Save Editor</h3>
       <p style="color: #a0a0a0;">Save editor for Fallout Shelter game saves.</p>
-      <a href="https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor" target="_blank">
+      <a href="https://github.com/poseidonLocal/Fallout-Shelter-Save-Editor" target="_blank">
         <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </div>
@@ -148,23 +147,23 @@
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 <div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h3>📦 Getting Started</h3>
+  <h3> Getting Started</h3>
   <p style="color: #a0a0a0;">Most projects are standalone or have their own README. Check individual project repositories for specific instructions.</p>
   
-  <h3>🔧 Usage</h3>
+  <h3> Usage</h3>
   <p style="color: #a0a0a0;">See individual project folders for detailed usage information.</p>
 </div>
 
-## 🤝 Contributing
+##  Contributing
 
 <div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <p style="color: #a0a0a0;">Contributions, issues, and feature requests are welcome! Feel free to check our <a href="https://github.com/poseidonlocal/poseidonlocal/issues">issues page</a>.</p>
+  <p style="color: #a0a0a0;">Contributions, issues, and feature requests are welcome! Feel free to check our <a href="https://github.com/poseidonLocal/poseidonLocal/issues">issues page</a>.</p>
 </div>
 
-## 📄 License
+##  License
 
 <div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
   <p style="color: #a0a0a0;">Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.</p>
