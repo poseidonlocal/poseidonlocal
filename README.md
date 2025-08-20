@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Banner Image -->
-  <img src="assets/banner.png" alt="PoseidonLocal Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+ <a style="text-decoration:none;" href="https://poseidonlocal.github.io" target="_blank"> <img src="assets/banner.png" alt="PoseidonLocal Banner" width="100%" style="height:200px;width:200px; border-radius: 15px; margin-bottom: 20px;" /></a>
 
   <!-- Main Title and Description -->
   <div style="background: linear-gradient(45deg, #0066ff, #00ccff); padding: 20px; border-radius: 10px; margin: 20px 0;">
