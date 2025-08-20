@@ -1,26 +1,4 @@
-<div align="center">
-  
-  <im---
-
-<div align="center">
-  <h1>🔄 Project Status Update</h1>
-  
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&logo=clockify&logoColor=white" alt="Status" />
-  
-  <p><strong>All projects below are being consolidated into one comprehensive suite.<br/>Stay tuned for an exciting announcement! 🎉</strong></p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Development-Ongoing-brightgreen?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETA-Coming%20Soon-blue?style=flat&logo=clockify&logoColor=white" />
-</div>
-
-<s>
-## 🚀 Legacy Projectshttps://github.com/user-attachments/assets/b3abcea7-13af-48f6-8b28-61b036f16b40"
-       alt="Bored — profile image"
-       width="320" height="320" style="border-radius: 15px;" />
-
-  <h1># 🌊 PoseidonLocal
+# 🌊 PoseidonLocal
 
 <div align="center">
   
@@ -67,125 +45,125 @@
       <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
     </a>
   </p>
+</div>
 
-  <!-- Fancy Separator -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" />
+<!-- Project Status Update -->
+<div align="center">
+  <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 25px; border-radius: 15px; margin: 30px 0;">
+    <h1 style="color: white; margin: 0; font-size: 2.5em;">🔄 Project Evolution</h1>
+    <p style="color: white; font-size: 1.2em; margin: 15px 0;">
+      We're evolving! All projects are being transformed into one comprehensive suite.
+      <br/>Stay tuned for something revolutionary! 🚀
+    </p>
+    <div style="margin-top: 20px;">
+      <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge&logo=clockify&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/ETA-Coming_Soon-blue?style=for-the-badge&logo=target&logoColor=white" alt="ETA" />
+    </div>
+  </div>
+</div>
 
-</div></h1>
-  
-  [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fposeidonlocal&label=Nerds&labelColor=%23ff8a65&countColor=%2337d67a&style=flat&labelStyle=upper)](https://github.com/poseidonlocal)
-  [![Status](https://img.shields.io/badge/status-evolving-success?style=flat&logo=github&logoColor=white)](https://github.com/poseidonlocal)
-  [![License](https://img.shields.io/badge/license-MIT-blue?style=flat)](LICENSE)
+<details>
+<summary><h2>🎮 Legacy Projects</h2></summary>
 
-  <p>
-    <a href="https://github.com/poseidonLocal" target="_blank" rel="noreferrer">
-      <img alt="GitHub"
-           src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/@theartofbored" target="_blank" rel="noreferrer">
-      <img alt="YouTube"
-           src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
-  </p>
+<div class="project-grid" style="display: grid; gap: 1.5rem; padding: 20px;">
+  <!-- Project Cards -->
+  <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
+    <h3>🔑 BoredKV <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" align="right"/></h3>
+    <p style="color: #a0a0a0;">Fully working C# app that safely checks and organizes KVs.</p>
+    <div class="tech-stack" style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
+    </div>
+  </div>
+
+  <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
+    <h3>🛡️ BoredStealth <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" align="right"/></h3>
+    <p style="color: #a0a0a0;">Variant RGH Stealth fork for personal use. Access available upon request.</p>
+    <div class="tech-stack" style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
+    </div>
+  </div>
+
+  <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
+    <h3>🌐 NextKV <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" align="right"/></h3>
+    <p style="color: #a0a0a0;">Next.js web app to check and organize KVs with admin panel.</p>
+    <div class="tech-stack" style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/Status-Legacy-gray?style=flat-square" alt="Status" />
+    </div>
+  </div>
+
+  <!-- More project cards... -->
+</div>
+</details>
+
+## 📅 Latest Updates
+
+<div align="center">
+  <!-- Timeline Header -->
+  <div style="background: linear-gradient(45deg, #2f2f2f, #1a1a1a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Last_Update-August_2025-success?style=for-the-badge&logo=github&logoColor=white" />
+    <p style="color: #fff; margin: 10px 0;">Tracking our journey of innovation</p>
+  </div>
+
+  <!-- Timeline Grid -->
+  <div style="display: grid; gap: 1.5rem; max-width: 800px; margin: 0 auto;">
+    <!-- August 10, 2025 -->
+    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
+      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #50fa7b; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
+      <h4 style="margin: 0; color: #50fa7b;">August 10, 2025</h4>
+      <h3>🔐 csharp KVChecker</h3>
+      <p style="color: #a0a0a0;">Tommy from TeaPot made this and now it's open source.</p>
+      <a href="https://github.com/poseidonlocal/csharp-KV-Checker-Source" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </div>
+
+    <!-- August 6, 2025 -->
+    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
+      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #ff79c6; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
+      <h4 style="margin: 0; color: #ff79c6;">August 6, 2025</h4>
+      <h3>🎲 BoredCasino</h3>
+      <p style="color: #a0a0a0;">Next.js casino template inspired by howl.gg.</p>
+      <div style="display: flex; gap: 10px;">
+        <a href="https://github.com/poseidonlocal/BoredCasino" target="_blank">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/Gitea-Coming_Soon-blue?style=for-the-badge&logo=gitea&logoColor=white" />
+      </div>
+    </div>
+
+    <!-- August 4, 2025 -->
+    <div style="border: 1px solid #2f2f2f; border-radius: 12px; padding: 1.5rem; background: linear-gradient(145deg, #1a1a1a, #2a2a2a); position: relative;">
+      <div style="position: absolute; left: -10px; top: 50%; transform: translateY(-50%); width: 20px; height: 20px; background: #8be9fd; border-radius: 50%; border: 3px solid #1a1a1a;"></div>
+      <h4 style="margin: 0; color: #8be9fd;">August 4, 2025</h4>
+      <h3>🎮 Fallout Shelter Save Editor</h3>
+      <p style="color: #a0a0a0;">Save editor for Fallout Shelter game saves.</p>
+      <a href="https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor" target="_blank">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </div>
+  </div>
 </div>
 
 ---
 
-<h1 align="center">� Project Status Update</h1>
-<p align="center"><strong>All projects below are being consolidated into one comprehensive suite. More details coming soon!</strong></p>
+## 🛠️ Installation & Usage
 
-<s>
-## 🎮 Legacy Projects
-
-<div class="project-grid" style="display: grid; gap: 1rem;">
-  <!-- BoredKV -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>🔑 BoredKV <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" align="right"/></h3>
-    <p>Fully working C# app that safely checks and organizes KVs.</p>
-  </div>
-
-  <!-- BoredStealth -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>🛡️ BoredStealth <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" align="right"/></h3>
-    <p>Variant RGH Stealth fork for personal use. Access available upon request.</p>
-  </div>
-
-  <!-- NextKV -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>🌐 NextKV <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" align="right"/></h3>
-    <p>Next.js web app to check and organize KVs with admin panel.</p>
-  </div>
-
-  <!-- BoredRPG Game -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>⚔️ BoredRPG Game <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" align="right"/></h3>
-    <p>Browser RPG with Framework7—engaging gameplay and a unique story.</p>
-  </div>
-
-  <!-- RGH ISO & Game Downloader -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>📥 RGH ISO & Game Downloader <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" align="right"/></h3>
-    <p>Download Xbox game ISOs directly from the app, simulating the Xbox Store.</p>
-  </div>
-
-  <!-- Xbox.com Clone -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>🎮 Xbox.com Clone <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" align="right"/></h3>
-    <p>Modern recreation of the Xbox.com experience with responsive content.</p>
-  </div>
-
-  <!-- Xbox 360 Shell Designer -->
-  <div style="border: 1px solid #2f2f2f; border-radius: 8px; padding: 1rem; background: #1a1a1a;">
-    <h3>🎨 Xbox 360 Shell Designer <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat&logo=qt&logoColor=white" align="right"/></h3>
-    <p>1:1 3D model of an Xbox 360 shell with custom design features.</p>
-  </div>
-</div>
-</s>
-
-## 📜 Recent Updates
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Last%20Update-August%202025-success?style=flat&logo=github&logoColor=white" />
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h3>📦 Getting Started</h3>
+  <p style="color: #a0a0a0;">Most projects are standalone or have their own README. Check individual project repositories for specific instructions.</p>
+  
+  <h3>🔧 Usage</h3>
+  <p style="color: #a0a0a0;">See individual project folders for detailed usage information.</p>
 </div>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Links</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>2025-08-10</td>
-        <td><strong>csharp KVChecker</strong></td>
-        <td>Tommy from TeaPot made this and now it’s open source.</td>
-      </tr>
-      <tr>
-        <td>2025-08-06</td>
-        <td><strong>BoredCasino</strong></td>
-        <td>Next.js casino template inspired by howl.gg.</td>
-        <td>
-          <a href="https://github.com/poseidonlocal/BoredCasino" target="_blank" rel="noreferrer">GitHub</a>
-          &nbsp;•&nbsp;<em>Gitea (coming soon)</em>
-        </td>
-      </tr>
-      <tr>
-        <td>2025-08-04</td>
-        <td><strong>Fallout Shelter Save Editor</strong></td>
-        <td>Save editor for Fallout Shelter game saves.</td>
-        <td><a href="https://github.com/poseidonlocal/Fallout-Shelter-Save-Editor" target="_blank" rel="noreferrer">GitHub</a></td>
-      </tr>
-    </tbody>
-  </table>
+## 🤝 Contributing
 
-</details>
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <p style="color: #a0a0a0;">Contributions, issues, and feature requests are welcome! Feel free to check our <a href="https://github.com/poseidonlocal/poseidonlocal/issues">issues page</a>.</p>
+</div>
+
+## 📄 License
+
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <p style="color: #a0a0a0;">Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.</p>
+</div>
