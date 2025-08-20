@@ -43,6 +43,9 @@
     <a href="https://www.youtube.com/@theartofbored" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
     </a>
+    <a href="https://discord.com/users/xbo.x" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-xbo.x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: xbo.x" />
+    </a>
   </p>
 </div>
 
